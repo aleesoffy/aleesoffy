@@ -1,33 +1,3 @@
-#include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
-
-int main()
-{
-    int N,M,L,Q,R,X;
-    scanf("%d",&N);
-    int Arr [N];
-    for(int i=0;i<N;i++){
-        Arr[i]=0;
-    }
-    scanf("%d",&M);
-          while(M--){
-              scanf("%d%d",&L,&R);
-              for(int i=L;i<=R;i++){
-                  Arr[i]++;
-              }
-             
-          }
-          scanf("%d",&Q);
-          while(Q--){
-              scanf("%d",&X);
-              int count=0;
-              for(int i=0;i<N;i++){
-                  if(Arr[i]>=X)
-                    count++;
-                
-              }
-              printf("%d/n",count);
-          }  /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
-}
+**Hi There** 👋
+I'm Nazakat Ali from Kashmir (India) a highly motivated CS@UnderGrad and young professional seeking to get name and fame in the professional world where I can showcase my skills and problem solving capabilities to compete with others, develop new tools and grow as an Experienced Professional.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazakatAliSofi)](https://github.com/anuraghazra/github-readme-stats)
