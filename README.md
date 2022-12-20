@@ -33,12 +33,15 @@ I'm Nazakat Ali from Kashmir (India) a highly motivated CS@UnderGrad and young p
 <img align="left" alt="Python" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <br/>  
+<br/>
 
 
 #### Frameworks/Platforms:
+
 <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
 <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+
 
 <br/> 
 
@@ -47,11 +50,16 @@ I'm Nazakat Ali from Kashmir (India) a highly motivated CS@UnderGrad and young p
 <br/>
  
  
- 
+ <br/>
  
  
 
+
+<br/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleesoffy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 - 🔭 I’m currently working on several projects. 
