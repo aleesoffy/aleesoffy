@@ -1,17 +1,17 @@
 ## Hi there 👋, My Name is Nazakat Ali
 ### I'm software Developer
-![I'm software Developer](https://media.licdn.com/dms/image/D4D16AQEvcu0rrdCpSQ/profile-displaybackgroundimage-shrink_350_1400/0/1671537319789?e=1677110400&v=beta&t=aV29qc5ho4b0CsFSFqlkqyderHp-0nygWFivtwAojBk)
+![I'm Data Engineer](https://media.licdn.com/dms/image/D4D16AQEvcu0rrdCpSQ/profile-displaybackgroundimage-shrink_350_1400/0/1671537319789?e=1677110400&v=beta&t=aV29qc5ho4b0CsFSFqlkqyderHp-0nygWFivtwAojBk)
 
-I'm Nazakat Ali from Kashmir (India) a highly motivated CS@UnderGrad and young professional seeking to get name and fame in the professional world where I can showcase my skills and problem solving capabilities to compete with others, develop new tools and grow as an Experienced Professional.
+I'm Nazakat Ali from Kashmir a highly motivated data engineer and young professional seeking to get name and fame in the professional world where I can showcase my skills and problem solving capabilities to compete with others, develop new tools and grow as an Experienced Professional.
 
 
-- 🔭 I’m currently working on research of Sentiment Analysis Using ML 
+- 🔭 I’m currently working as software engineer in HCL Technologies 
 
-- 🌱 I’m currently learning Python and ML 
+- 🌱 I’m currently working on the several projects of Data engineering to get better hands on over the the technologies
  
 - 👯 I’m looking to collaborate on with Young Tech enthusiasts 
  
-- 🤔 I’m looking for help with to get reputed position 
+- 🤔 I’m looking for help with to get reputed position in data engineering
  
 - 💬 Ask me about problem solving 
  
@@ -19,7 +19,7 @@ I'm Nazakat Ali from Kashmir (India) a highly motivated CS@UnderGrad and young p
  
 - 😄 Pronouns: He/Him 
 
-- ⚡ Fun fact: people call me Shayar...! pr mai shayar to nhi..! 
+- ⚡ Fun fact: I'm no more the person i was yesterday...Growing curious and furious! 
 
 #### Let's Get Connected:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/aleesoffy) <br/>                       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nazakat-ali-sofi-coder//)     <br/>           [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/aleesoffy)       <br/>        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/alee_soffy//)         <br/>       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/AleeSoffy)  <br/>
@@ -62,7 +62,7 @@ I'm Nazakat Ali from Kashmir (India) a highly motivated CS@UnderGrad and young p
 
 
 
-- 🔭 I’m currently working on several projects. 
+- 🔭 . 
 
 
 
