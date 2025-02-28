@@ -1,5 +1,5 @@
 ## Hi there 👋, My Name is Nazakat Ali
-### I'm software Developer
+### I'm Data engineer
 ![I'm Data Engineer](https://media.licdn.com/dms/image/D4D16AQEvcu0rrdCpSQ/profile-displaybackgroundimage-shrink_350_1400/0/1671537319789?e=1677110400&v=beta&t=aV29qc5ho4b0CsFSFqlkqyderHp-0nygWFivtwAojBk)
 
 I'm Nazakat Ali from Kashmir a highly motivated data engineer and young professional seeking to get name and fame in the professional world where I can showcase my skills and problem solving capabilities to compete with others, develop new tools and grow as an Experienced Professional.
